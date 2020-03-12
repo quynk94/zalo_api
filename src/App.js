@@ -94,6 +94,8 @@ class App extends Component {
               this.props.alert.show(`Message sended to: ${phone}`)
             }
           });
+        } else if (response['message'] == 'user has not followed oa') {
+          this.props.alert.error(`Người dùng này chưa mua hàng trên shop: ${phone}`)
         }
       })
 
