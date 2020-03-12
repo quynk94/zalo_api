@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zalo_api/static/css/main.0ffa8d9a.chunk.css",
-    "main.js": "/zalo_api/static/js/main.e112d0a1.chunk.js",
-    "main.js.map": "/zalo_api/static/js/main.e112d0a1.chunk.js.map",
+    "main.js": "/zalo_api/static/js/main.8e157d76.chunk.js",
+    "main.js.map": "/zalo_api/static/js/main.8e157d76.chunk.js.map",
     "runtime-main.js": "/zalo_api/static/js/runtime-main.a2042a1d.js",
     "runtime-main.js.map": "/zalo_api/static/js/runtime-main.a2042a1d.js.map",
     "static/js/2.26856f2d.chunk.js": "/zalo_api/static/js/2.26856f2d.chunk.js",
     "static/js/2.26856f2d.chunk.js.map": "/zalo_api/static/js/2.26856f2d.chunk.js.map",
     "index.html": "/zalo_api/index.html",
-    "precache-manifest.f7bd5bff448b0534d4c0b86a0eb706ef.js": "/zalo_api/precache-manifest.f7bd5bff448b0534d4c0b86a0eb706ef.js",
+    "precache-manifest.a19981583b58b6af2277e28a06ac257a.js": "/zalo_api/precache-manifest.a19981583b58b6af2277e28a06ac257a.js",
     "service-worker.js": "/zalo_api/service-worker.js",
     "static/css/main.0ffa8d9a.chunk.css.map": "/zalo_api/static/css/main.0ffa8d9a.chunk.css.map",
     "static/js/2.26856f2d.chunk.js.LICENSE.txt": "/zalo_api/static/js/2.26856f2d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a2042a1d.js",
     "static/js/2.26856f2d.chunk.js",
     "static/css/main.0ffa8d9a.chunk.css",
-    "static/js/main.e112d0a1.chunk.js"
+    "static/js/main.8e157d76.chunk.js"
   ]
 }
