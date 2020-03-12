@@ -1,8 +1,87 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
-
 .app-container {
+  padding-top: 20vh;
   max-width: 900px;
   margin: 0 auto 0 auto;
+  padding: 66px 15px 59px 15px;
+}
+
+.title {
+  display: block;
+  width: 100%;
+  font-family: Raleway-Black;
+  font-size: 30px;
+  color: #333333;
+  line-height: 1.2;
+  text-transform: uppercase;
+  text-align: left;
+  padding-bottom: 32px;
+}
+
+.field {
+  width: 100%;
+  position: relative;
+  background-color: transparent;
+  margin-bottom: 35px;
+}
+
+.field label {
+  font-size: 20px;
+  color: #555555;
+  line-height: 1.5;
+}
+
+.field textarea {
+  display: block;
+  width: 100%;
+  background: #f2f2f2;
+  border-radius: 2px;
+  font-family: Raleway-SemiBold;
+  font-size: 20px;
+  color: #686868;
+  line-height: 1.2;
+  padding: 15px 28px;
+
+  min-height: 100px;
+
+  transition: all 0.4s;
+  margin-top: 10px;
+
+  outline: none;
+  border: none;
+
+  overflow: auto;
+  resize: none;
+  box-sizing: border-box;
+}
+
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.button-container button {
+  display: block;
+  position: relative;
+  z-index: 1;
+  border-radius: 2px;
+  width: auto;
+  overflow: hidden;
+  margin: 0 auto;
+  background: #2f91ff;
+  padding: 10px 20px;
+  font-size: 25px;
+  border: none;
 }
