@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zalo_api/static/css/main.0ffa8d9a.chunk.css",
-    "main.js": "/zalo_api/static/js/main.8e157d76.chunk.js",
-    "main.js.map": "/zalo_api/static/js/main.8e157d76.chunk.js.map",
+    "main.css": "/zalo_api/static/css/main.29d57bcd.chunk.css",
+    "main.js": "/zalo_api/static/js/main.f2a86191.chunk.js",
+    "main.js.map": "/zalo_api/static/js/main.f2a86191.chunk.js.map",
     "runtime-main.js": "/zalo_api/static/js/runtime-main.a2042a1d.js",
     "runtime-main.js.map": "/zalo_api/static/js/runtime-main.a2042a1d.js.map",
     "static/js/2.26856f2d.chunk.js": "/zalo_api/static/js/2.26856f2d.chunk.js",
     "static/js/2.26856f2d.chunk.js.map": "/zalo_api/static/js/2.26856f2d.chunk.js.map",
     "index.html": "/zalo_api/index.html",
-    "precache-manifest.a19981583b58b6af2277e28a06ac257a.js": "/zalo_api/precache-manifest.a19981583b58b6af2277e28a06ac257a.js",
+    "precache-manifest.8a80cb92cea2bf62604fc9a4fc739179.js": "/zalo_api/precache-manifest.8a80cb92cea2bf62604fc9a4fc739179.js",
     "service-worker.js": "/zalo_api/service-worker.js",
-    "static/css/main.0ffa8d9a.chunk.css.map": "/zalo_api/static/css/main.0ffa8d9a.chunk.css.map",
+    "static/css/main.29d57bcd.chunk.css.map": "/zalo_api/static/css/main.29d57bcd.chunk.css.map",
     "static/js/2.26856f2d.chunk.js.LICENSE.txt": "/zalo_api/static/js/2.26856f2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2042a1d.js",
     "static/js/2.26856f2d.chunk.js",
-    "static/css/main.0ffa8d9a.chunk.css",
-    "static/js/main.8e157d76.chunk.js"
+    "static/css/main.29d57bcd.chunk.css",
+    "static/js/main.f2a86191.chunk.js"
   ]
 }

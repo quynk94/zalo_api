@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7c6f38f63cda2fb476a56f1a2163011",
+    "revision": "6d71fa44a04c46f471ec3b0441ebcd2c",
     "url": "/zalo_api/index.html"
   },
   {
-    "revision": "efdc6786d6f2647e8399",
-    "url": "/zalo_api/static/css/main.0ffa8d9a.chunk.css"
+    "revision": "2c6ca909edb4023a9a49",
+    "url": "/zalo_api/static/css/main.29d57bcd.chunk.css"
   },
   {
     "revision": "484f9cd6ff263776c7f7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zalo_api/static/js/2.26856f2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efdc6786d6f2647e8399",
-    "url": "/zalo_api/static/js/main.8e157d76.chunk.js"
+    "revision": "2c6ca909edb4023a9a49",
+    "url": "/zalo_api/static/js/main.f2a86191.chunk.js"
   },
   {
     "revision": "36f6722b4b37d41652ff",

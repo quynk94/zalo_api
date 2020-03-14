@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zalo_api/precache-manifest.a19981583b58b6af2277e28a06ac257a.js"
+  "/zalo_api/precache-manifest.8a80cb92cea2bf62604fc9a4fc739179.js"
 );
 
 self.addEventListener('message', (event) => {
